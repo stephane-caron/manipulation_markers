@@ -1,0 +1,7 @@
+string command
+string marker
+string init_tf
+float32 scale
+geometry_msgs/Pose pose
+---
+string response
